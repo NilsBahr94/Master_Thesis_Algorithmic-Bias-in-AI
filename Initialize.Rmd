@@ -1,0 +1,12 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+Test Notebook to initialize repo.
+
+```{r}
+plot(cars)
+```
+
+
